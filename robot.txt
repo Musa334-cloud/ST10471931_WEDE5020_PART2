@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musa334-cloud.github.io/ST10471931_WEDE5020_PART2/sitemap.xml
