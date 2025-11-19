@@ -17,6 +17,15 @@ This document records all changes made to the project across Part 1 and Part 2.
 
 ---
 
+2025-10-01 — Navigation: Added accessible mobile nav toggle with aria-expanded, controlled via scripts.js.
+2025-10-06 — Lightbox: Implemented product image lightbox with open/close functionality for improved UX.
+2025-10-06 — Search Filter: Added real-time filtering for services (#searchInput) and products (#productSearch).
+2025-11-11 — Enquiry Form: Enhanced with dynamic quote generation and personalized cost messages.
+2025-11-12 — Contact Form: Integrated Formspree endpoint (https://formspree.io/f/xpwbqqvd) with HTML5 validation.
+2025-11-15 — External JS: Consolidated all JavaScript into js/scripts.js, removed inline scripts for cleaner structure.
+2025-11-18 — Testing: Verified features across Chrome, Firefox, and Edge; confirmed form submissions, toggle, lightbox, and filters.
+
+
 ## Notes
 - Referencing style corrected based on Part 1 feedback.  
 - All commits pushed to GitHub with descriptive commit messages.  
