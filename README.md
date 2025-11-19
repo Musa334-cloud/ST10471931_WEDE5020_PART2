@@ -66,6 +66,15 @@ Part 2 focuses on **visual appeal, responsiveness, and user experience**:
 - Moved all JavaScript into external file `js/scripts.js`
 - Tested across Chrome, Firefox, and Edge for consistent behavior
 
+  ### SEO Compliance
+- Added unique meta titles, descriptions, and keywords to all HTML pages
+- Created `robots.txt` to allow full site indexing
+- Created `sitemap.xml` to guide search engines through site structure
+- Verified both files live at:
+  - https://musa334-cloud.github.io/ST10471931_WEDE5020_POE PART3/robots.txt
+  - https://musa334-cloud.github.io/ST10471931_WEDE5020_POE PART3/sitemap.xml
+
+
 ---
 
 ## Screenshots
