@@ -1,4 +1,4 @@
-# Part 2 README
+# POE README
 
 # ScentSymphony Website
 
@@ -54,7 +54,17 @@ Part 2 focuses on **visual appeal, responsiveness, and user experience**:
    - Breakpoints tested:  
      - **Desktop:** 1440px  
      - **Tablet:** 768px  
-     - **Mobile:** 375px  
+     - **Mobile:** 375px
+  ---
+  
+## Part 3 – JavaScript Enhancements & Interactivity
+- Added accessible mobile nav toggle with `aria-expanded`
+- Implemented lightbox gallery for product images
+- Built real-time search filters for services and products
+- Enhanced enquiry form with dynamic quote generation
+- Integrated contact form with Formspree endpoint (`https://formspree.io/f/xpwbqqvd`)
+- Moved all JavaScript into external file `js/scripts.js`
+- Tested across Chrome, Firefox, and Edge for consistent behavior
 
 ---
 
